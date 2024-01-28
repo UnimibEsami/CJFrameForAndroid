@@ -121,3 +121,6 @@ tmp/
 
 # TeXlipse plugin
 .texlipseXml version="1.0" encoding="UTF-8"?>captures
+
+# Ignore Gradle build output directory
+build
