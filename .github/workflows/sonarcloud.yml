@@ -41,3 +41,4 @@ jobs:
           -Dsonar.organization=unimibesami
           -Dsonar.sources=.
           -Dsonar.host.url=https://sonarcloud.io
+          -Dsonar.java.binaries=build/intermediates/javac/debug/classes
